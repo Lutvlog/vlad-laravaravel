@@ -11,7 +11,7 @@
         <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
             <div class="col-md-6 px-0">
                 <h1>УК Лотос Парк </h1>
-                <h5 class="featurette-heading"> Мы нацелены на чёткое планирование своей деятельности и полной отчетности.</h5>
+                <h5 class="featurette-heading"> Мы нацелены на чёткое планирование своей деятельности и полной отчетности..</h5>
                 <br>
                 <br>
                 <br>
